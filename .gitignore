@@ -1,6 +1,14 @@
+# IDE
 .idea/
+
+# Python
 __pycache__/
 *.pyc
 .venv/
 venv/
+
+# Test results
+allure-results/
+
+# Env / secrets
 .env
