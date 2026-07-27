@@ -1,0 +1,1 @@
+{"uuid": "f70abcd2-2d67-4fc2-b885-a75759506eae", "children": ["dd1a0fb3-bffe-4dd9-a63d-d1d627130c7c"], "befores": [{"name": "create_credit_request_wrong_role", "status": "passed", "start": 1784901149031, "stop": 1784901149031}], "afters": [{"name": "create_credit_request_wrong_role::<lambda>", "start": 1784901149408}], "start": 1784901149031, "stop": 1784901149408}
